@@ -1,6 +1,7 @@
 # Bank transaction category predictor
 
-Challenge Criteria: Build a model to predict transaction categories using the 10 (ten) distinct categories that a transaction may fall into. The categories are as follows:
+This was a part of the Campus Analytics Challenge organized by Wells Fargo.
+The Challenge Criteria: Build a model to predict transaction categories using the 10 (ten) distinct categories that a transaction may fall into. The categories are as follows:
 
 • Communication Services 
 • Education 
